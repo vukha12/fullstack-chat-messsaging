@@ -1,0 +1,16 @@
+# Common
+.env
+node_modules/
+dist/
+build/
+*.log
+.vscode/
+.DS_Store
+
+# React specific
+client/node_modules/
+client/build/
+
+# Server specific
+server/node_modules/
+server/dist/
